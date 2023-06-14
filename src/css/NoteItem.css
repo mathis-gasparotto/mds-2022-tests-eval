@@ -1,0 +1,25 @@
+.note-item.red {
+  background-color: red;
+  color: white;
+}
+.note-item.orange {
+  background-color: orange;
+  color: black;
+}
+.note-item.yellow {
+  background-color: yellow;
+  color: black;
+}
+.note-item.green {
+  background-color: green;
+  color: white;
+}
+.note-item.red a, .note-item.green a {
+  color: white;
+}
+.note-item.orange a, .note-item.yellow a {
+  color: black;
+}
+.note-item a {
+  text-decoration: underline;
+}
